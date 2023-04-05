@@ -2,5 +2,5 @@ remote_theme: zivhub/monophase@main
 plugins:
 - jekyll-remote-theme
 title: Events and APIs
-author: Zach Calvert
-description: Events and APIs news, noteworthy, and brain dump of Zach Calvert.
+author.name: Zach Calvert
+tagline: Events and API's news, noteworthy, and brain dump of Zach Calvert.
